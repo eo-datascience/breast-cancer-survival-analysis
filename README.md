@@ -8,8 +8,11 @@ This project applies survival analysis techniques to study factors influencing b
 📊 Dataset
 
  • Source: Public breast cancer dataset (Kaggle) 
+ 
  • Observations: 685 patients
+
  • Outcome: Time to event (recurrence or death)
+ 
  • Censoring included
 
 
@@ -59,7 +62,7 @@ This project applies survival analysis techniques to study factors influencing b
 
 📌 Conclusion
 
-
 This project demonstrates practical application of survival analysis techniques in healthcare data science and highlights clinically meaningful predictors of breast cancer outcomes.
+
 
 
